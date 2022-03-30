@@ -1,12 +1,11 @@
 {
   "name": "package-cron-curl-cli",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Register a `curl` to run periodically with `cron` jobs",
+  "main": "register-cron.sh",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cron", "cli", "curl"],
+  "author": "Daniel S<iam@w-b.dev>",
   "license": "ISC"
 }
