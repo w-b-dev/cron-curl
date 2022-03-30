@@ -1,5 +1,5 @@
 {
-  "name": "package-cron-curl-cli",
+  "name": "cron-curl",
   "version": "1.0.0",
   "description": "Register a `curl` to run periodically with `cron` jobs",
   "main": "register-cron.sh",
